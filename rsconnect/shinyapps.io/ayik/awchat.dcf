@@ -5,6 +5,6 @@ account: ayik
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 2311574
-bundleId: 3155661
+bundleId: 3766907
 url: https://ayik.shinyapps.io/awchat/
 when: 1589651098.04651
